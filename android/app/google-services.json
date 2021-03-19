@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199491675230",
+    "project_id": "chidatchamdiemrl",
+    "storage_bucket": "chidatchamdiemrl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199491675230:android:3a5b53ec06153d2a6a40cf",
+        "android_client_info": {
+          "package_name": "android.permission.SYSTEM_ALERT_WINDOW"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199491675230-0lksdhhrd2p9485fptg6nuinv934glnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZU1RgYoXjtcN6J79xfbn2T--jc2TJaC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199491675230-0lksdhhrd2p9485fptg6nuinv934glnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
